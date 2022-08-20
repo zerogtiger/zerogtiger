@@ -9,7 +9,7 @@ Hello. I am Tiger.
   
 -------------------
   
-<img src="https://github-readme-stats.vercel.app/api?username=zerogtiger&show_icons=true&theme=gotham&count_private=true&include_all_commits=true" height="150"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=zerogtiger&theme=gotham&include_all_commits=true&count_private=true" height="150">
+<img src="https://github-readme-stats.vercel.app/api?username=zerogtiger&show_icons=true&theme=gotham&count_private=true&include_all_commits=true" height="160"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=zerogtiger&theme=gotham&include_all_commits=true&count_private=true" height="160">
 
 
 ![zerogtiger github stats](https://github-readme-stats.vercel.app/api?username=zerogtiger&show_icons=true&theme=gotham&count_private=true&include_all_commits=true)
