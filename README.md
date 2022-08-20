@@ -8,15 +8,8 @@ Hello. I am Tiger.
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" height="29">  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" height="29">  <img src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="29">  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="29">  <img src="https://img.shields.io/badge/C++-5C2D91.svg?style=for-the-badge&logo=CPP&logoColor=white" height="29">  <img src="https://img.shields.io/badge/Java-%23F05033.svg?style=for-the-badge&logo=Java&logoColor=whitee" height="29">
   
 -------------------
-  
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zerogtiger&show_icons=true&theme=gotham&count_private=true&include_all_commits=true" height="160"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=zerogtiger&theme=gotham&include_all_commits=true&count_private=true" height="160">
 
-
-![zerogtiger github stats](https://github-readme-stats.vercel.app/api?username=zerogtiger&show_icons=true&theme=gotham&count_private=true&include_all_commits=true)
-![zerogtiger github streak](https://github-readme-streak-stats.herokuapp.com/?user=zerogtiger&theme=gotham&include_all_commits=true&count_private=true)
-
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=zerogtiger&show_icons=true&theme=gotham&count_private=true&include_all_commits=true" height="160"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=zerogtiger&theme=gotham&include_all_commits=true&count_private=true" height="160">
 
 <!--
 **zerogtiger/zerogtiger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
