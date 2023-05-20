@@ -1,11 +1,11 @@
-## About 👋
--------------------
+<!-- ## About 👋 -->
+<!-- ------------------- -->
 Hello. I am Tiger. 
 
 
-## Skills 📚
+<!-- ## Skills 📚
 -------------------
-<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"> <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"> <img src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/C++-5C2D91.svg?style=for-the-badge&logo=CPP&logoColor=white"> <img src="https://img.shields.io/badge/Java-%23F05033.svg?style=for-the-badge&logo=Java&logoColor=whitee">
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"> <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"> <img src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/C++-5C2D91.svg?style=for-the-badge&logo=CPP&logoColor=white"> <img src="https://img.shields.io/badge/Java-%23F05033.svg?style=for-the-badge&logo=Java&logoColor=whitee"> -->
   
 -------------------
 
