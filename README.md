@@ -50,7 +50,8 @@ const zerogtiger = {
       "sketching",
       "photography"
     ],
-    currentFocus: "web dev"
+    currentFocus: "web dev",
+    lastUpdated: "2023/07/16"
 }
 ```
 
