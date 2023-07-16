@@ -51,7 +51,7 @@ const zerogtiger = {
       "3D design \& visualization",
       "sketching",
       "\書\法\楷\書“,
-      "photography"，
+      "photography"
     ],
     currentFocus: "web dev"
 }
