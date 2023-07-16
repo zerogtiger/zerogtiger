@@ -6,11 +6,20 @@
 
 ![experienced languages](https://skillicons.dev/icons?i=cpp,py,java,lua,html,css,js&theme=dark)
 
+![experienced technologies](https://skillicons.dev/icons?i=linux,raspberrypi,vim,neovim,blender,md,latex&theme=light)
+
 ### Looking to gain more experience in
+
+![unexperienced languages & technologies](https://skillicons.dev/icons?i=bash,git,docker,c,r,mysql,ts,nodejs,react,html,css&theme=dark)
 
 ### Favorite editors in order
 
+![favorite editors](https://skillicons.dev/icons?i=neovim,vim,idea,eclipse&theme=light)
+
 ### Worst thing ever made in the entirety of the universe
+
+![garbage](https://skillicons.dev/icons?i=vscode&theme=dark)
+
 
 
 <!-- ## About 👋 -->
