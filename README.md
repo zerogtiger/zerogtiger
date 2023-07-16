@@ -4,6 +4,12 @@
 
 ### Moderately experienced in
 
+### Looking to gain more experience in
+
+### Favorite editors in order
+
+### Worst thing ever made in the entirety of the universe
+
 
 <!-- ## About 👋 -->
 <!-- ------------------- -->
