@@ -1,6 +1,6 @@
 # Tiger Ding (`zerogtiger`)
 
-![visitors](https://vbr.wocr.tk/badge?page_id=zerogtiger.zerogtiger&color=37b037)  ![GitHub followers](https://img.shields.io/github/followers/zerogtiger?label=Follow&style=social)  [![Linkedin: tiger-ding-16880a247](https://img.shields.io/badge/-Tiger_Ding-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiger-ding-16880a247/)](https://www.linkedin.com/in/tiger-ding-16880a247/) ![flat](https://dcbadge.vercel.app/api/shield/711020280826298440?bot=true&style=flat-square)  
+![visitors](https://vbr.wocr.tk/badge?page_id=zerogtiger.zerogtiger&color=37b037)  ![GitHub followers](https://img.shields.io/github/followers/zerogtiger?label=Follow&style=social)  ![flat](https://dcbadge.vercel.app/api/shield/711020280826298440&?style=flat-square)  [![Linkedin: tiger-ding-16880a247](https://img.shields.io/badge/-Tiger_Ding-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiger-ding-16880a247/)](https://www.linkedin.com/in/tiger-ding-16880a247/)  
 
 ### Moderately experienced in:
 
@@ -10,7 +10,7 @@
 
 ### Looking to gain more experience in:
 
-![unexperienced languages & technologies](https://skillicons.dev/icons?i=bash,git,docker,c,r,mysql,ts,nodejs,react,html,css&theme=dark)
+![unexperienced languages & technologies](https://skillicons.dev/icons?i=bash,git,docker,c,r,mysql,ts,nodejs,react,html,css,swift&theme=dark)
 
 ### Favorite editors in order:
 
