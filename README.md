@@ -36,7 +36,10 @@ const zerogtiger = {
     pronouns: "He" | "Him",
     kindaExperiencedLanguages: ["C++", "Python", "Java", "Lua", "LaTeX", "Markdown", "HTML", "CSS", "Javascript"],
     kindaExperiencedTechnologies: ["Linux", "Raspberry Pi", "Vim", "Neovim", "Blender"],
-    notReallyExperiencedLanguages: ["Bash", "Git", "C", "R", "SQL", "Typescript", "NodeJS", "ReactJS", "CSS", "Swift"],
+    notReallyExperiencedLanguages: ["Bash", "Git", "C", "R",
+      "SQL", "Typescript", "NodeJS",
+      "ReactJS", "CSS", "Swift"
+    ],
     askMeAbout: [
       "competitive math",
       "competitive programming",
