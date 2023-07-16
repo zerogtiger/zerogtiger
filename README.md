@@ -19,6 +19,9 @@ I am a
 ### Looking to gain more experience in:
 
 ![unexperienced languages & technologies](https://skillicons.dev/icons?i=bash,git,docker,c,r,mysql,ts,nodejs,react,html,css,swift&theme=dark)
+* Artificial intelligence
+* Web development
+* App development
 
 ### Favorite editors in order:
 
@@ -27,7 +30,8 @@ I am a
 <details>
   <summary><h1>WORST</h1> <h3>thing</h3> <h1>EVER</h1> <h3>made in the </h3> <h1>ENTIRETY</h1> <h3>of the</h3> <h1>UNIVERSE</h1></summary>
   
-  ![garbage](https://skillicons.dev/icons?i=vscode&theme=dark)  
+   Visual Studio Code<br>
+   <img src="https://skillicons.dev/icons?i=vscode&theme=dark"> 
 </details>
 
 ### Concise code summary
