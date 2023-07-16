@@ -60,7 +60,7 @@ const zerogtiger = {
 ```
 
 <details>
-  <summary><h3>Github Status</h3></summary>
+  <summary><h3>Github Statistics</h3></summary>
   <img src="https://github-readme-stats.vercel.app/api?username=zerogtiger&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true" height="160">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zerogtiger&theme=graywhite&include_all_commits=true&count_private=true" height="160"><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerogtiger&langs_count=8&theme=graywhite"><br>
