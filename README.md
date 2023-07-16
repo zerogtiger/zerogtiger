@@ -1,6 +1,12 @@
 # Tiger Ding (`zerogtiger`)
 
-![visitors](https://vbr.wocr.tk/badge?page_id=zerogtiger.zerogtiger&color=37b037)  ![GitHub followers](https://img.shields.io/github/followers/zerogtiger?label=Follow&style=social)  ![flat](https://dcbadge.vercel.app/api/shield/711020280826298440&?style=flat-square)  [![Linkedin: tiger-ding-16880a247](https://img.shields.io/badge/-Tiger_Ding-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiger-ding-16880a247/)](https://www.linkedin.com/in/tiger-ding-16880a247/)  
+![visitors](https://vbr.wocr.tk/badge?page_id=zerogtiger.zerogtiger&color=37b037)  ![GitHub followers](https://img.shields.io/github/followers/zerogtiger?label=Follow&style=social)  ![flat](https://dcbadge.vercel.app/api/shield/711020280826298440&?style=flat-square)  [![Linkedin: tiger-ding-16880a247](https://img.shields.io/badge/-Tiger_Ding-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiger-ding-16880a247/)](https://www.linkedin.com/in/tiger-ding-16880a247/)
+
+I am a
+* Computer Science student at the University of Waterloo
+* Neovim enthusiast
+* Unix-variant enthusiast
+* Open-source enthusiast
 
 ### Moderately experienced in:
 
@@ -16,12 +22,13 @@
 
 ![favorite editors](https://skillicons.dev/icons?i=neovim,vim,idea,eclipse&theme=light)
 
-### Worst thing ever made in the entirety of the universe:
-
-![garbage](https://skillicons.dev/icons?i=vscode&theme=dark)
-
 <details>
-  <summary>Github Status</summary>
+  <summary><h1>Worst</h1> <h3>thing</h3> <h1>EVER</h1> <h3>made in the </h3> <h1>entirety of the universe</h1></summary>
+  
+  ![garbage](https://skillicons.dev/icons?i=vscode&theme=dark)  
+</details>
+<details>
+  <summary><h3>Github Status</h3></summary>
   <img src="https://github-readme-stats.vercel.app/api?username=zerogtiger&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true" height="160">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zerogtiger&theme=graywhite&include_all_commits=true&count_private=true" height="160"><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerogtiger&langs_count=8&theme=graywhite"><br>
