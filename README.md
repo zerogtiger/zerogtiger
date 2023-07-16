@@ -1,6 +1,6 @@
 # Tiger Ding (`zerogtiger`)
 
-![visitors](https://vbr.wocr.tk/badge?page_id=zerogtiger.zerogtiger&color=37b037)  ![GitHub followers](https://img.shields.io/github/followers/zerogtiger?label=Follow&style=social)  ![flat](https://dcbadge.vercel.app/api/shield/711020280826298440&?style=flat-square)  [![Linkedin: tiger-ding-16880a247](https://img.shields.io/badge/-Tiger_Ding-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiger-ding-16880a247/)](https://www.linkedin.com/in/tiger-ding-16880a247/)  [![Static Badge](https://img.shields.io/badge/Gmail-sighuponly%40gmail.com-red?logo=gmail
+![visitors](https://vbr.wocr.tk/badge?page_id=zerogtiger.zerogtiger&color=37b037)  ![GitHub followers](https://img.shields.io/github/followers/zerogtiger?label=Follow&style=social)  [![flat](https://dcbadge.vercel.app/api/shield/711020280826298440&?style=flat-square)](discordapp.com/users/711020280826298440)  [![Linkedin: tiger-ding-16880a247](https://img.shields.io/badge/-Tiger_Ding-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiger-ding-16880a247/)](https://www.linkedin.com/in/tiger-ding-16880a247/)  [![Static Badge](https://img.shields.io/badge/Gmail-sighuponly%40gmail.com-red?logo=gmail
 )](mailto:sighuponly@gmail.com)
 
 
@@ -29,12 +29,6 @@ I am a
   
   ![garbage](https://skillicons.dev/icons?i=vscode&theme=dark)  
 </details>
-<details>
-  <summary><h3>Github Status</h3></summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=zerogtiger&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true" height="160">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zerogtiger&theme=graywhite&include_all_commits=true&count_private=true" height="160"><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerogtiger&langs_count=8&theme=graywhite"><br>
-</details>
 
 ### Concise code summary
 ```javascript
@@ -55,3 +49,11 @@ const zerogtiger = {
     currentFocus: "web dev"
 }
 ```
+
+<details>
+  <summary><h3>Github Status</h3></summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=zerogtiger&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true" height="160">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zerogtiger&theme=graywhite&include_all_commits=true&count_private=true" height="160"><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerogtiger&langs_count=8&theme=graywhite"><br>
+</details>
+
