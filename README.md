@@ -4,6 +4,8 @@
 
 ### Moderately experienced in
 
+![experienced languages](https://skillicons.dev/icons?i=cpp,py,java,lua,html,css,js&theme=dark)
+
 ### Looking to gain more experience in
 
 ### Favorite editors in order
