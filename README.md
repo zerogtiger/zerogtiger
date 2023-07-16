@@ -1,6 +1,7 @@
 # Tiger Ding (`zerogtiger`)
 
-![visitors](https://vbr.wocr.tk/badge?page_id=zerogtiger.zerogtiger&color=37b037)  ![GitHub followers](https://img.shields.io/github/followers/zerogtiger?label=Follow&style=social)  ![flat](https://dcbadge.vercel.app/api/shield/711020280826298440&?style=flat-square)  [![Linkedin: tiger-ding-16880a247](https://img.shields.io/badge/-Tiger_Ding-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiger-ding-16880a247/)](https://www.linkedin.com/in/tiger-ding-16880a247/)  [![Static Badge](https://img.shields.io/badge/Gmail-gray?logo=gmail)](mailto:sighuponly@gmail.com)
+![visitors](https://vbr.wocr.tk/badge?page_id=zerogtiger.zerogtiger&color=37b037)  ![GitHub followers](https://img.shields.io/github/followers/zerogtiger?label=Follow&style=social)  ![flat](https://dcbadge.vercel.app/api/shield/711020280826298440&?style=flat-square)  [![Linkedin: tiger-ding-16880a247](https://img.shields.io/badge/-Tiger_Ding-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiger-ding-16880a247/)](https://www.linkedin.com/in/tiger-ding-16880a247/)  [![Static Badge](https://img.shields.io/badge/Gmail-sighuponly%40gmail.com-red?logo=gmail
+)](mailto:sighuponly@gmail.com)
 
 
 I am a
@@ -35,4 +36,23 @@ I am a
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerogtiger&langs_count=8&theme=graywhite"><br>
 </details>
 
-
+### Concise code summary
+```javascript
+const zerogtiger = {
+    pronouns: "He" | "Him",
+    kindaExperiencedLanguages: ["C++", "Python", "Java", "Lua", "LaTeX", "Markdown", "HTML", "CSS", "Javascript"],
+    kindaExperiencedTechnologies: ["Linux", "Raspberry Pi", "Vim", "Neovim", "Blender"],
+    notReallyExperiencedLanguages: ["Bash", "Git", "C", "R", "SQL", "Typescript", "NodeJS", "ReactJS", "CSS", "Swift"],
+    askMeAbout: [
+      "competitive math",
+      "competitive programming",
+      "literature",
+      "graphics design",
+      "3D design \& visualization",
+      "sketching",
+      "書法楷書“,
+      "photography"
+    ],
+    currentFocus: "web dev"
+}
+```
