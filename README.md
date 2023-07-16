@@ -1,6 +1,7 @@
 # Tiger Ding (`zerogtiger`)
 
-![visitors](https://vbr.wocr.tk/badge?page_id=zerogtiger.zerogtiger&color=37b037)  ![GitHub followers](https://img.shields.io/github/followers/zerogtiger?label=Follow&style=social)  ![flat](https://dcbadge.vercel.app/api/shield/711020280826298440&?style=flat-square)  [![Linkedin: tiger-ding-16880a247](https://img.shields.io/badge/-Tiger_Ding-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiger-ding-16880a247/)](https://www.linkedin.com/in/tiger-ding-16880a247/)
+![visitors](https://vbr.wocr.tk/badge?page_id=zerogtiger.zerogtiger&color=37b037)  ![GitHub followers](https://img.shields.io/github/followers/zerogtiger?label=Follow&style=social)  ![flat](https://dcbadge.vercel.app/api/shield/711020280826298440&?style=flat-square)  [![Linkedin: tiger-ding-16880a247](https://img.shields.io/badge/-Tiger_Ding-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiger-ding-16880a247/)](https://www.linkedin.com/in/tiger-ding-16880a247/)  [![Static Badge](https://img.shields.io/badge/Gmail-gray?logo=gmail)](mailto:sighuponly@gmail.com)
+
 
 I am a
 * Computer Science student at the University of Waterloo
