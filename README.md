@@ -28,7 +28,7 @@ I am a
 ![favorite editors](https://skillicons.dev/icons?i=neovim,vim,idea,eclipse&theme=light)
 
 <details>
-  <summary><<h3>The</h3> <h1>WORST</h1> <h3>thing</h3> <h1>EVER</h1> <h3>made in the </h3> <h1>ENTIRETY</h1> <h3>of the</h3> <h1>UNIVERSE</h1></summary>
+  <summary><h3>The</h3> <h1>WORST</h1> <h3>thing</h3> <h1>EVER</h1> <h3>made in the </h3> <h1>ENTIRETY</h1> <h3>of the</h3> <h1>UNIVERSE</h1></summary>
   
    Visual Studio Code<br>
    <img src="https://skillicons.dev/icons?i=vscode&theme=dark"> 
