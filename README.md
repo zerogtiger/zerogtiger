@@ -10,7 +10,7 @@ I am a
 * Unix-variant enthusiast
 * Open-source enthusiast
 
-### Moderately experienced in:
+### Moderately experienced with:
 
 ![experienced languages](https://skillicons.dev/icons?i=cpp,py,java,lua,html,css,js&theme=dark)
 
