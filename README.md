@@ -7,7 +7,7 @@
 I am a
 * Computer Science student at the University of Waterloo
 * Neovim enthusiast
-* Unix-variant enthusiast
+* UNIX-variant enthusiast
 * Open-source enthusiast
 
 ### Moderately experienced with:
