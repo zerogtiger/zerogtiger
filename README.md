@@ -12,13 +12,13 @@ I am a
 
 ### Moderately experienced with:
 
-![experienced languages](https://skillicons.dev/icons?i=cpp,py,java,lua,html,css,js&theme=dark)
+![experienced languages](https://skillicons.dev/icons?i=cpp,py,java,lua,html,css,js,react,next,tailwind&theme=dark)
 
 ![experienced technologies](https://skillicons.dev/icons?i=linux,raspberrypi,vim,neovim,blender,md,latex&theme=light)
 
 ### Looking to gain more experience in:
 
-![unexperienced languages & technologies](https://skillicons.dev/icons?i=bash,git,docker,c,r,mysql,ts,nodejs,react,html,css,swift&theme=dark)
+![unexperienced languages & technologies](https://skillicons.dev/icons?i=bash,git,docker,c,r,mysql,ts,nodejs,swift&theme=dark)
 * Artificial intelligence
 * Web development
 * App development
