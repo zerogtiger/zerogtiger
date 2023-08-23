@@ -20,7 +20,6 @@ I am a
 
 ![unexperienced languages & technologies](https://skillicons.dev/icons?i=bash,git,docker,c,r,mysql,ts,nodejs,swift&theme=dark)
 * Artificial intelligence
-* Web development
 * App development
 
 ### Favorite editors in order:
