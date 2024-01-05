@@ -44,7 +44,9 @@ const zerogtiger = {
       "Rust", "PostgreSQL", "LaTeX", "Markdown",
       "Javascript", "HTML", "CSS"
     ],
-    kindaExperiencedTechnologies: ["Linux", "Raspberry Pi", "Vim", "Neovim", "Blender"],
+    kindaExperiencedTechnologies: [
+      "Linux", "Raspberry Pi", "Vim", "Neovim", "Blender"
+    ],
     notReallyExperiencedLanguages: [
       "Bash", "Git", "R", "Typescript", "Swift"
     ],
