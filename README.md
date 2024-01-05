@@ -12,13 +12,15 @@ I am a
 
 ### Moderately experienced with:
 
-![experienced languages](https://skillicons.dev/icons?i=cpp,py,java,lua,html,css,js,react,next,tailwind&theme=dark)
+![experienced languages](https://skillicons.dev/icons?i=c,cpp,py,java,lua,rust,postgresql,supabase&theme=dark)
+
+![experienced languages](https://skillicons.dev/icons?i=js,html,css,nodejs,react,next,tailwind,prisma&theme=dark)
 
 ![experienced technologies](https://skillicons.dev/icons?i=linux,raspberrypi,vim,neovim,blender,md,latex&theme=light)
 
 ### Looking to gain more experience in:
 
-![unexperienced languages & technologies](https://skillicons.dev/icons?i=bash,git,docker,c,r,mysql,ts,nodejs,swift&theme=dark)
+![unexperienced languages & technologies](https://skillicons.dev/icons?i=bash,git,docker,r,ts,swift&theme=dark)
 * Artificial intelligence
 * Full-stack development
 
@@ -27,7 +29,7 @@ I am a
 ![favorite editors](https://skillicons.dev/icons?i=neovim,vim,idea,eclipse&theme=light)
 
 <details>
-  <summary><h3>The</h3> <h1>WORST</h1> <h3>thing</h3> <h1>EVER</h1> <h3>made in the </h3> <h1>ENTIRETY</h1> <h3>of the</h3> <h1>UNIVERSE</h1></summary>
+  <summary><h3>The worst thing ever made in the entirety of the universe</h3> (click to expand) </summary>
   
    Visual Studio Code<br>
    <img src="https://skillicons.dev/icons?i=vscode&theme=dark"> 
@@ -37,12 +39,10 @@ I am a
 ```javascript
 const zerogtiger = {
     pronouns: "He" | "Him",
-    kindaExperiencedLanguages: ["C++", "Python", "Java", "Lua", "LaTeX", "Markdown", "HTML", "CSS", "Javascript"],
+    kindaExperiencedLanguages: ["C", "C++", "Python", "Java", "Lua", "Rust", "PostgreSQL", "LaTeX", "Markdown", "Javascript", "HTML", "CSS"],
     kindaExperiencedTechnologies: ["Linux", "Raspberry Pi", "Vim", "Neovim", "Blender"],
     notReallyExperiencedLanguages: [
-      "Bash", "Git", "C", "R",
-      "SQL", "Typescript", "NodeJS",
-      "ReactJS", "CSS", "Swift"
+      "Bash", "Git", "R", "Typescript", "Swift"
     ],
     askMeAbout: [
       "competitive math",
@@ -51,10 +51,11 @@ const zerogtiger = {
       "graphics design",
       "3D design \& visualization",
       "sketching",
-      "photography"
+      "photography",
+      "Neovim"
     ],
     currentFocus: [ "full-stack dev", "rust" ],
-    lastUpdated: "2023/12/14"
+    lastUpdated: "2024/01/05"
 }
 ```
 
