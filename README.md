@@ -39,7 +39,9 @@ I am a
 ```javascript
 const zerogtiger = {
     pronouns: "He" | "Him",
-    kindaExperiencedLanguages: ["C", "C++", "Python", "Java", "Lua", "Rust", "PostgreSQL", "LaTeX", "Markdown", "Javascript", "HTML", "CSS"],
+    kindaExperiencedLanguages: ["C", "C++", "Python", "Java", "Lua",
+                                "Rust", "PostgreSQL", "LaTeX", "Markdown",
+                                "Javascript", "HTML", "CSS"],
     kindaExperiencedTechnologies: ["Linux", "Raspberry Pi", "Vim", "Neovim", "Blender"],
     notReallyExperiencedLanguages: [
       "Bash", "Git", "R", "Typescript", "Swift"
