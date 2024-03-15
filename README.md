@@ -1,6 +1,6 @@
 # Tiger Ding (`zerogtiger`)
 
-![visitors](https://vbr.wocr.tk/badge?page_id=zerogtiger.zerogtiger&color=57bd57)  ![GitHub followers](https://img.shields.io/github/followers/zerogtiger?label=Follow&style=social)  [![Discord](https://dcbadge.vercel.app/api/shield/711020280826298440&?style=flat-square)](https://www.discordapp.com/users/711020280826298440)  [![Linkedin](https://img.shields.io/badge/-Tiger_Ding-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiger-ding-16880a247/)](https://www.linkedin.com/in/tiger-ding-16880a247/)  [![Gmail](https://img.shields.io/badge/Gmail-zerogtiger%40gmail.com-red?logo=gmail
+![Visitors](https://api.visitorbadge.io/api/visitors?path=zerogtiger&countColor=%23ff8a65&style=flat) ![GitHub followers](https://img.shields.io/github/followers/zerogtiger?label=Follow&style=social)  [![Discord](https://dcbadge.vercel.app/api/shield/711020280826298440&?style=flat-square)](https://www.discordapp.com/users/711020280826298440)  [![Linkedin](https://img.shields.io/badge/-Tiger_Ding-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiger-ding-16880a247/)](https://www.linkedin.com/in/tiger-ding-16880a247/)  [![Gmail](https://img.shields.io/badge/Gmail-zerogtiger%40gmail.com-red?logo=gmail
 )](mailto:zerogtiger@gmail.com)
 
 
@@ -27,12 +27,12 @@ I am a
 ### Favorite editors in order:
 
 ![favorite editors](https://skillicons.dev/icons?i=neovim,vim,idea,eclipse&theme=light)
-
-<details>
-  <summary><h3>The worst thing ever made in the entirety of the universe</h3> (click to expand) </summary>
-  
+<hr>
+<details><summary>(click to expand) The worst thing ever made in the entirety of the universe </summary>
+   <br>
    Visual Studio Code<br>
    <img src="https://skillicons.dev/icons?i=vscode&theme=dark"> 
+  <hr>
 </details>
 
 ### Concise code summary
