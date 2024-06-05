@@ -14,7 +14,7 @@ I am a
 
 ![experienced languages](https://skillicons.dev/icons?i=c,cpp,py,java,lua,rust,postgresql,supabase&theme=dark)
 
-![experienced languages](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,next,tailwind,prisma&theme=dark)
+![experienced languages](https://skillicons.dev/icons?i=js,html,css,nodejs,react,next,tailwind,prisma&theme=dark)
 
 ![experienced technologies](https://skillicons.dev/icons?i=linux,raspberrypi,vim,neovim,blender,md,latex&theme=light)
 
