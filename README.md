@@ -14,13 +14,13 @@ I am a
 
 ![experienced languages](https://skillicons.dev/icons?i=c,cpp,py,java,lua,rust,postgresql,supabase&theme=dark)
 
-![experienced languages](https://skillicons.dev/icons?i=js,html,css,nodejs,react,next,tailwind,prisma&theme=dark)
+![experienced languages](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,next,tailwind,prisma&theme=dark)
 
 ![experienced technologies](https://skillicons.dev/icons?i=linux,raspberrypi,vim,neovim,blender,md,latex&theme=light)
 
 ### Looking to gain more experience in:
 
-![unexperienced languages & technologies](https://skillicons.dev/icons?i=bash,git,docker,r,ts,swift&theme=dark)
+![unexperienced languages & technologies](https://skillicons.dev/icons?i=bash,git,docker,r,swift&theme=dark)
 * Artificial intelligence
 * Full-stack development
 
