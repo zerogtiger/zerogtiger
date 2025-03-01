@@ -10,9 +10,7 @@ CS @ University of Waterloo
 
 #### Moderately experienced with:
 
-![experienced languages](https://skillicons.dev/icons?i=cpp,py&theme=dark)
-![experienced technologies](https://skillicons.dev/icons?i=neovim,blender,latex&theme=dark)
-
+![experienced languages](https://skillicons.dev/icons?i=cpp,py,neovim,blender,latex&theme=dark)
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zerogtiger&theme=graywhite&include_all_commits=true&count_private=true" height="160"><br>
   </blockquote>
