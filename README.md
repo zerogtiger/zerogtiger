@@ -1,4 +1,4 @@
-# Tiger Ding (`zerogtiger`)
+# Hey I'm Tiger Ding
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=zerogtiger&countColor=%23ff8a65&style=flat) ![GitHub followers](https://img.shields.io/github/followers/zerogtiger?label=Follow&style=social) [![Static Badge](https://img.shields.io/badge/zerotiger.ca-ffffff)](https://www.zerotiger.ca/) [![Linkedin](https://img.shields.io/badge/-Tiger_Ding-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiger-ding-16880a247/)](https://www.linkedin.com/in/tiger-ding-16880a247/)  [![Gmail](https://img.shields.io/badge/Gmail-zerogtiger%40gmail.com-red?logo=gmail)](mailto:zerogtiger@gmail.com) 
 
