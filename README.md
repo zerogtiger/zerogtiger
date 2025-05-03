@@ -6,11 +6,16 @@
   <summary> Details: Click to expand</summary>
 <br/>
 <blockquote>
+
+  
+  ---
+  
 CS @ University of Waterloo
 
-#### Moderately experienced with:
 
-![experienced languages](https://skillicons.dev/icons?i=cpp,py,neovim,blender,latex&theme=dark)
+Moderately experienced with:
+
+![experienced languages](https://skillicons.dev/icons?i=rust,cpp,py,neovim,blender,latex&theme=dark)
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zerogtiger&theme=graywhite&include_all_commits=true&count_private=true" height="160"><br>
   </blockquote>
